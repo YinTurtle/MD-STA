@@ -74,7 +74,7 @@ P - Pharmacy Only
 POM - Prescription Only Medicine
 
 #### General Sales List (GSL)
-- Can be sold in registered pharmacies, but can be found anymore (other retail outlets)
+- Can be sold in registered pharmacies, but can be found anywhere (other retail outlets)
 	- e.g. paracetamol
 	- Over the counter
 

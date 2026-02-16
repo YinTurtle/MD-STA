@@ -9,7 +9,7 @@
 - Discuss how the myotatic, inverse myotatic and cross extensor withdrawal reflex may combine to produce simple repetitive movements
 - Recall that the autonomic nervous system is involved in many reflexes
 
-### What is  Reflex?
+### What is Reflex?
 - Specific, involuntary, unpremeditated, "built-in" response to a particular stimulus
 	- Protects
 - Can be classified to:
@@ -21,9 +21,9 @@
 			- e.g. shutting eyes as object rapidly approaches face (cranial reflex)
 	- Autonomic (visceral) reflexes - baroreceptor reflex
 		- e.g. regulate visceral (internal) function, heart rate, blood pressure, digestion, pupil dilation etc
-- Acquired (learned) reflex
-	- basically almost like muscle memory
-	- Pavlov's dog salivating on hearing a bell
+	- Acquired (learned) reflex
+		- basically almost like muscle memory
+		- Pavlov's dog salivating on hearing a bell
 
 ### Homeostasis
 ![[Pasted image 20260216121319.png]]
