@@ -1,7 +1,16 @@
+#ethics
+
+### LO
+- Appreciate that others, whether patients or healthcare professionals, may hold different values and beliefs
+- Outline the arguments for and against conscientious objection in the practice of medicine
+- Recognise why medical students have different guidelines on conscientious objection to medical doctors
+- State four reasons why some argue that conscientious objection should not be allowed in medical practice
+- Recognise situations where differences in values and beliefs may lead to potential discrepancies in patient care and identify appropriate responses to these cases
+
 1. Read the opening 8 paragraphs of Rethinking Conscientious Objection in Health Care by Giubilini et al. (2025)1 – stop at the sentence ‘These two claims constitute the main thesis that we are going to defend in this book’ (you may of course read on, but you don’t have to). Then answer the following questions:
-	1. How would the book’s opening anecdote [paragraphs 1-2] fail the GMC’s guidelines on conscientious objection?
+	1. How would the book’s opening anecdote [para 1-2] fail the GMC’s guidelines on conscientious objection?
 		Under GMC guidance, a doctor who has a conscientious objection can’t let it become a barrier to a patient getting appropriate care, and must manage it in a way that avoids judgement, distress, discrimination, and obstruction. Refusing healthcare to a certain specific group is discrimination.
-	2. Why might this be an example still worth considering [paragraph 3]?
+	2. Why might this be an example still worth considering [para 3]?
 		Because the authors argue the case isn’t a one-off and will likely grow as societies become more pluralistic and the menu of contested interventions expands. So even if the anecdote feels “extreme,” it’s being used as a representative risk for real systems: access, equity, and regulation pressures.
 	3. How do they define the patient they are concerned with [para 4-5]?
 		To be decisionally competent, eligible to receive a particular health care service, and autonomously requests the particular health care service.
