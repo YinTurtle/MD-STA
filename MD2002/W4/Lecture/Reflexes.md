@@ -3,8 +3,8 @@
 ### LO
 - Recall that (i) different classes of nerve fibre have different diameters (and conduction velocities); (ii) there are two different nerve fibre classification systems; (iii) how the magnitude of conduction velocity relates to the diameter of nerve fibre
 - List the components of monosynaptic reflex arcs.
-- Describe the structure and function of muscle spindles and their reflex connections with &alpha;-motor neurones supplying the muscle
-- Describe the structure and function of Golgi tendon organs and their reflex connections with &alpha;-motor neurones supplying the muscle
+- Describe the structure and function of muscle spindles and their reflex connections with alpha motor neurones supplying the muscle
+- Describe the structure and function of Golgi tendon organs and their reflex connections with alpha motor neurones supplying the muscle
 - Explain how muscle spindles monitor muscle length, while Golgi tendon organs monitor tension.
 - Discuss how the myotatic, inverse myotatic and cross extensor withdrawal reflex may combine to produce simple repetitive movements
 - Recall that the autonomic nervous system is involved in many reflexes
