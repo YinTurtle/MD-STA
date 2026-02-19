@@ -41,7 +41,11 @@ Cranial X is the vagus nerve, innervates cervical and thoracic vertebrae columns
 ![[Pasted image 20260219102339.png]]
 
 **4** options for a sympathetic fibre exiting the CNS
-#addinfo
+![[Pasted image 20260219130137.png]]
+- **Synapse in the sympathetic chain at the same spinal level** → post-ganglionic fibre returns to the spinal nerve to supply body wall/limbs.
+- **Ascend or descend in the sympathetic chain, then synapse** (e.g., to reach cervical or sacral levels) → post-ganglionic fibres go to targets at those levels.
+- **Pass through the sympathetic chain without synapsing → synapse in a prevertebral (pre-aortic) ganglion** → post-ganglionic fibres go to abdominal/pelvic organs.
+- **Go directly to the adrenal medulla**: pre-ganglionic fibres synapse on **chromaffin cells**, which release adrenaline/noradrenaline into blood.
 
 ### Autonomic motor reflex
 Autonomic visceral reflexes afferent fibres accompany parasympathetic fibres.
@@ -76,9 +80,9 @@ Autonomic visceral reflexes afferent fibres accompany parasympathetic fibres.
 
 ### ANS and the eye
 **Pupillary dilator muscle** - *sympathetic* innervation only
-- Mydriasis
+- ###### Mydriasis
 **Pupillary constrictor muscle** - *parasympathetic* innervation
-- Miosis
+- ###### Miosis
 ![[Pasted image 20260219104541.png]]
 
 What effect would a **sympathetic** *agonist* have on the eye?
@@ -97,16 +101,32 @@ When bladder if full
 		- Relaxation of internal sphincter muscle
 
 ### Basic physiology of the ANS
-#addinfo 
+**Sympathetic** and **parasympathetic** innervation
+- may oppose or compliment
+- may (rarely) have the same effect (e.g. saliva)
+- some tissues only innervated by one
+
+The effects of innervation can be generalised
+- **parasympathetic** - "rest and digest"
+- **sympathetic** - "fight or flight"
+
+*Autonomic reflex arc* exist for visceral control
+- path of afferent fibres can explain referred pain
 
 #### Varicosities
-#addinfo 
+Varicosities in the ANS are bead-like enlargements along postganglionic axons that function as sites for storing and releasing neurotransmitters (such as norepinephrine, ATP and acetylcholine) directly onto target effector tissues.
+![[Pasted image 20260219113138.png]]
 
 ### CNS Overall
 ![[Pasted image 20260219105532.png]]
 
 ### Sympathetic innervation of the adrenal gland
-#addinfo 
+- Preganglionic sympathetic fibers synapse on chromaffin cells
+
+- Chromaffin cells release adrenaline (~80%) and noradrenaline (~20%) into systemic circulation
+
+- Widespread tissue response
+![[Pasted image 20260219130257.png]]
 
 ### Neurotransmitters of the ANS
 - *All* pre-ganglionic neurons in the **parasympathetic** sympathetic system release ACh
@@ -117,3 +137,5 @@ When bladder if full
 	- Some release ACh (i.e. sweat glands)
 
 Adrenal gland does not synapsed but rather directly innervates from the nerve roots.
+
+[[Autonomic Nervous System Part 2|Part 2]]
