@@ -128,10 +128,16 @@ CaM = Calmodulin
 MLC = Myosin light chain
 MLCK = Myosin light chain kinase
 
+> [!info] Contraction
+> Ca²⁺ rises (influx +/or SR release) → Ca²⁺–calmodulin activates **MLCK** → MLCK phosphorylates myosin light chain → ↑ myosin ATPase → myosin binds actin and cycles → contraction.
+
 ### Smooth Muscle Relaxation
 5. When stimulus ends, **calcium is pumped out** of the cell or into the SR
 6. When calcium drops below a **critical** level, calcium dissociates from calmodulin (**inactivates MLCK**)
-7. **Myosin phosphatase** removes phosphate from the MLC, causing detachment of the myosin head from the actin filament, causing relaxation
+7. **Myosin light chain phosphatase** removes phosphate from the MLC, causing detachment of the myosin head from the actin filament, causing relaxation
+
+> [!info] Relaxation
+> Ca²⁺ is removed (SERCA into SR + extrusion) → Ca²⁺ falls, calmodulin disengages → **MLCK inactivates** and **MLCP dephosphorylates myosin** → cross-bridge cycling and force fall → relaxation.
 
 The timing of relaxation is determined by amount of active myosin phosphatase in cells.
 
