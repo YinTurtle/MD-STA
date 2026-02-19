@@ -1,4 +1,4 @@
-#muscle #microbiology #proteins #pathology 
+#muscle #microbiology #microbiology/proteins #pathology 
 
 ### LO
 - Explain the role of the transverse tubules, and the terminal cisternae in skeletal muscle contraction

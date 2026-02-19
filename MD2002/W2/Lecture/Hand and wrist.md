@@ -1,4 +1,4 @@
-#upperbody/upperlimbs #hand #muscle
+#upperbody/upperlimbs #upperbody/upperlimbs/hand #muscle
 
 ### LO
 - Describe the layers and compartments of the Palm

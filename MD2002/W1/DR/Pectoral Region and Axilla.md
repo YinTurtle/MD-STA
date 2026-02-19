@@ -1,4 +1,4 @@
-#upperbody/upperlimbs #muscle
+#upperbody/upperlimbs #muscle #bones 
 
 ### LO
 - Identify and name the pectoralis major, pectoralis minor, serratus anterior and deltoid muscles

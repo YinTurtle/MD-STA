@@ -1,4 +1,4 @@
-#upperbody/upperlimbs #muscle 
+#upperbody/upperlimbs #muscle #bones 
 
 ### LO
 - Identify all of the bones and bony landmarks of the upper limb

@@ -1,4 +1,4 @@
-#upperbody
+#upperbody #bones 
 
 ### LO
 - Describe the movements of the pectoral girdle, the muscles and their features (i.e. attachments, innervation, actions)

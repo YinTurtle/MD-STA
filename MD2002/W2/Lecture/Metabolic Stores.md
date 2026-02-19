@@ -1,4 +1,4 @@
-#proteins #liver
+#microbiology/proteins #liver
 
 ### LO
 - Describe the importance of catabolic-anabolic homeostasis and the interconversion of fuels in the absorptive and postabsorptive state

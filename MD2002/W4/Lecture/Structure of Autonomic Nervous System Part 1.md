@@ -1,4 +1,4 @@
-#nerves #ANS #nerves/neurotransmitters 
+#nerves #nerves/ANS #nerves/neurotransmitters 
 
 ### LO
 - Identify the two main divisions of the ANS and their relationship to the rest of the nervous system.

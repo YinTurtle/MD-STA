@@ -1,4 +1,4 @@
-#upperbody/upperlimbs #osteology
+#upperbody/upperlimbs #bones
 
 ### LO
 - Identify, orientate and name the bones of the pectoral girdle and upper limb

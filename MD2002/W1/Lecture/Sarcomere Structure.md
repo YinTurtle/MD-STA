@@ -1,4 +1,4 @@
-#proteins #muscle #microbiology 
+#microbiology/proteins #muscle #microbiology 
 
 ### LO
 - Describe the organisation and roles of the main proteins located within the sarcomere
