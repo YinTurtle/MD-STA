@@ -7,7 +7,7 @@
 - To understand that selectivity of action with muscarinic agonists is achieved by a combination of choice of route of administration and the ionised state of the drug.
 - To know specific examples of cholinergic agonist and antagonists and the conditions for which they are used.
 
-[[Structure of Autonomic Nervous System Part 1|Part 1]]
+[[Autonomic Nervous System Part 1|Part 1]]
 ### Acetylcholine Receptors in ANS
 Highlighted in red
 ![[Pasted image 20260219131202.png]]
@@ -49,7 +49,7 @@ Muscarinic and nicotinic ACh receptors share some agonist, but can be differenti
 - Drugs that affect ACh at the Sk. NMJ may affect the AN
 
 ![[Pasted image 20260219132648.png]]
-[[Structure of Autonomic Nervous System Part 1#Parasympathetic nervous system]]
+[[Autonomic Nervous System Part 1#Parasympathetic nervous system]]
 
 ### Muscarinic ACh receptors
 Classified by their tissue distribution and their cellular response.
