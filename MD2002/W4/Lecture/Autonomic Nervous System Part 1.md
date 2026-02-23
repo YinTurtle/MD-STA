@@ -139,3 +139,4 @@ Varicosities in the ANS are bead-like enlargements along postganglionic axons th
 Adrenal gland does not synapsed but rather directly innervates from the nerve roots.
 
 [[Autonomic Nervous System Part 2|Part 2]]
+[[Autonomic Nervous System Part 3|Part 3]]

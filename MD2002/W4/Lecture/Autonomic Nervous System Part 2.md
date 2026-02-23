@@ -7,7 +7,6 @@
 - To understand that selectivity of action with muscarinic agonists is achieved by a combination of choice of route of administration and the ionised state of the drug.
 - To know specific examples of cholinergic agonist and antagonists and the conditions for which they are used.
 
-[[Autonomic Nervous System Part 1|Part 1]]
 ### Acetylcholine Receptors in ANS
 Highlighted in red
 ![[Pasted image 20260219131202.png]]
@@ -72,3 +71,6 @@ General problem of selectivity with antagonists
 - Few differentiate between subtypes effectively
 - Muscarinic ACh receptors widespread, therefore, there are side effects
 - Control by route of administration and distribution
+
+[[Autonomic Nervous System Part 1|Part 1]]
+[[Autonomic Nervous System Part 3|Part 3]]
