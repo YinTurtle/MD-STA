@@ -59,7 +59,7 @@ Formation of glucose from noncarbohydrate molecules
 - Muscle: stores glycogen for muscle contraction only - meaning it is not released into the bloodstream
 - Glycogen stores change constantly, with changes in nutrition status
 ![[Pasted image 20260205132324.png]]
-#ask
+
 
 ### Glycogen Metabolism
 - Glycogenesis: promoted by insulin

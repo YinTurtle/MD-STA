@@ -17,6 +17,10 @@
 	Non-maleficence: unwanted treatment can be a harm (physical burden, indignity, prolonged suffering). Respecting an ADRT can prevent that harm.
 	Justice: resources and fair allocation aren’t the main purpose of ADRTs, but they’re relevant in systems-level decisions and consistency of practice.
 
+Next of kin may hold priority if mentioned in AD.
+## Case 1
+A female in her 50s has a long history of rheumatoid arthritis associated with chronic back pain and profound fatigue leaving her to be unable to leave her own home. After experiencing the deaths of two people close to her in ‘distressing circumstances’, she decided, in conjunction with her family, to have an Advance Decision created listing six conditions she would not want medical treatment for, leaving copies of her directive with her husband, sister, daughter, lawyer and GP. Related to this, she also joined a society that promoted euthanasia and obtained medications that would allow her to take an overdose. She maintained that she did not want to be admitted to intensive care in the future. Due to self-perceived worsening quality of life and a self-diagnosed minor stroke, she decided to take an overdose of a mixture of medications. She was found the following morning by her husband unconscious but still breathing with a note explaining her intended suicide. He decided to take her to Accident & Emergency (A&E) as he was concerned that even though she had not wanted to live, she may be suffering from the consequences of an unsuccessful suicide. Doctors in A&E acknowledged the Advance Decision. However, given that she had none of the conditions listed in the Advance Decision, it was decided to be appropriate to treat her. She survived to the point of discharge and lived for another year, requiring her husband and son to provide full-time care at home, before being admitted to hospital with pneumonia where she then died.
+
 ### 1) What are the patient’s perspectives on terminal care?
 
 - She places a high value on **control and avoidance of burdensome treatment**, especially intensive care (“did not want to be admitted to ICU”).
@@ -56,6 +60,15 @@
 - **Clinician fear of legal consequences:** even if clinicians sympathise with her stated wishes, if the directive is not clearly applicable, they may treat to avoid acting unlawfully.
 - **Moral distress and downstream consequences:** the case shows that “treating because the ADRT wasn’t applicable” can lead to prolonged survival with heavy dependence, raising difficult questions about whether the outcome aligned with her values.
 - **Interface with assisted dying law:** her membership in a euthanasia society and obtaining overdose meds highlights a gap between what some patients want and what is legally permitted, which can complicate planning discussions.
+
+## Case 2
+Clinically assisted (“artificial”) hydration and nutrition refers to the process by which fluids are given via a cannula (intravenous or subcutaneous) or via a tube (into the stomach or small bowel). It is an emotive topic for many at the end of life. Many people fear that the dying person will starve or dehydrate, and this will hasten death and cause suffering. Viewpoints on this are influenced by ethnicity, culture, religion, and personal experience. Current practice in the UK is not to offer these treatments as standard, mainly as the evidence is insufficient, but to consider each patient individually.
+An elderly female is admitted from a nursing home due to a fever and low oxygen saturations. She has a history of dementia and chronic obstructive pulmonary disease (COPD). The nurse accompanying her from the nursing home describes how she has had a reduced appetite for a number of months, has been in bed more recently and has been more drowsy over the last week. After assessment by a junior doctor and consultant, it is felt that she is approaching the end of life. At the time of her dementia diagnosis, the patient put in place an Advance Decision which states that:
+	If I have an incurable and irreversible Terminal Condition that will result in my death within a relatively short time, I direct that:
+		i) I not be given Life Support or other life-prolonging treatment
+		ii) I not receive Tube Feeding even if withholding such feeding would hasten my death
+		iii) I not receive Cardiopulmonary Resuscitation in the event of cardiac arrest.
+Her daughter, who has Power of Attorney for Welfare and Finance, asks that her mother be given intravenous fluids for hydration and is also considered for nasogastric feeding so that she does not starve to death.
 ### 1) Why might her daughter be requesting these treatments?
 
 - **Emotional distress and fear of “starving/dehydrating to death”**: many people equate lack of intake with suffering or abandonment, even when reduced intake can be part of the dying process.
