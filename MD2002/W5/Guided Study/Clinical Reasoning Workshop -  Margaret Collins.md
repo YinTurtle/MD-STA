@@ -22,13 +22,13 @@
 - "Dalteparin 5000 units daily" is the standard care - it is a prophylaxis.
 	- Acts as an anticoagulant (blood thinner) to prevent VTE - normally at least 14 days up to 35 days
 		- Blood thinner reduce clot risk by interfering with the body's coagulation process, preventing new clots from forming or existing ones from growing. Work by inhibiting clotting proteins or preventing platelets from clumping.
-- "Stopped taking dalteparin after 3 days due to brusing" - bruising is common and expected
-	- Bruising is expected because the blood thinner stops blood from clotting quickly, so bumping into something or a small injury can cause blood to leak out of the vessel to cause a bruise
-	- Margaret did not understand the importance
-		- this is a health literacy and discharge counselling issue
 
 >Margaret has no other relevant medical history other than osteoarthritis. Her 67-year-old husband has been caring for her since she came out of hospital, they have no additional support at home. Margaret is a retired administrator. Since returning home she has been reluctant to weight bear and has spent much of her time sitting in her chair watching television.  When taking the history from Margaret, the GP asks her about her current medication and allergies. She has no allergies, but Margaret does tell the GP that she stopped taking the dalteparin injections after 3 days as it was causing small bruises on her abdomen. She did not realise the full significance of the medication as she struggled to understand the leaflet.
 
+- - "Stopped taking dalteparin after 3 days due to brusing" - bruising is common and expected
+	- Bruising is expected because the blood thinner stops blood from clotting quickly, so bumping into something or a small injury can cause blood to leak out of the vessel to cause a bruise
+	- Margaret did not understand the importance
+		- this is a health literacy and discharge counselling issue
 - "Reluctant to weight bear, sitting in chair watching TV"
 	- Can cause venous stasis
 		- part of virchow's triad
@@ -45,7 +45,7 @@
 >·         Pleuritic right sided chest pain
 
 - Symptom for pulmonary embolism
-	-  can be caused by pulmonary infarction
+	- can be caused by pulmonary infarction
 	- pleural irritation
 
 >·         Chest examination normal
@@ -87,20 +87,14 @@ Investigation results:
 	- significant clot burden
 - "Doppler detects DVT"
 	- confirms clot source
+- 37.9 degree celsius, NEWS 4, tachypnoea, 105 bpm - regular rhythm, 155/95 blood pressure, SpO2 92% - FiO2 0.28, 22 respiratory rate
 
 >A full blood count (FBC) showed the following results:
-
-|                        |                         |
-| ---------------------- | ----------------------- |
-| Hb: 111 g/l            |                         |
-| RBC:  3.8 x1012 /l     | Neutrophils:  6 x109/l  |
-| Platelets: 370 x109 /l | Lymphocytes: 3.1 x109/l |
-| WBC:  9 x109 /l        | Monocytes: 0.6 x109/l   |
-
+>![[Pasted image 20260226143211.png]]
 - "Hb 111"
 	- mild anaemia
 - "Platelets 370"
-	- normal, which means its safe to anticoagulate
+	- normal, which means its safe to anti-coagulate
 		- If high or low, it can increase risk of bleeding
 
 >Arterial blood gas (ABG) analysis on 28% oxygen shows PaO2 = 9.7kPa
@@ -131,6 +125,8 @@ Investigation results:
 	- CTPA shows direct filling defect in pulmonary artery, clot burden, RV strain
 		- CTPA is best here because
 			- Margaret has a High Wells score, hypoxia, ECG showing RV strain, confirmed DVT, and she is stable enough for CT
+- D-dimer
+	- A D-dimer test measures a protein fragment (fibrin degradation product) in the blood that is produced when a blood clot is broken down. It is primarily used to rule out active, dangerous blood clotting disorders like deep vein thrombosis (DVT) or pulmonary embolism (PE). Normal levels are generally  < 500 ng/mL, though they can increase with age, pregnancy, or recent injury.
 
 >Margaret is admitted to the Medical Assessment Unit, as it is thought that there is a high probability of PE.
 >
@@ -148,6 +144,8 @@ Margaret makes an excellent recovery and is discharged home 2 days later with a 
 - Warfarin
 	- not preferred because many drugs interactions, slow onset, requires INR (international normalized ratio) monitoring
 		- used mainly for severe renal impairment, mechanical heart valves
+	- Easily reversible - based on vitamin K
+		- better for risk of falls (so some older patient may use this instead of Apixaban)
 - Apixaban (DOAC)
 	- preferred because it has a rapid onset, no INR monitoring, lower major bleeding risk vs warfarin, good evidence base for VTE
 
