@@ -43,7 +43,6 @@ Bind to sites on the receptor other than the agonist binding site and can modify
 
 Allosteric sites are regulatory, not 'active' binding sites.
 Can modify the [[Drug Receptor Interactions 1#Affinity]] or [[Drug Receptor Interactions 1#Efficacy]] of a receptor's endogenous ligand or drug.
-Does it happen after the agonist binds to the receptor, and if so does it change the agonist shape permanently if it leaves. #ask
 - Potentiate or inhibit
 
 ### Non Competitive antagonist

@@ -8,6 +8,8 @@
 - Produce and present a poster highlighting an evidence-based aspect of the scenario
 - Consider the strengths and areas for improvement of yourself and other team members through self and peer appraisal
 
+[[Coagulation - normal and abnormal|reference]]
+
 >You are on GP attachment in Cupar and go with your GP supervisor on a home visit to see Margaret Collins, a 63 year old female. You think of a few questions to ask the GP.
 
 -  63 year old shows risk factor for VTE (venous thromboembolism)
