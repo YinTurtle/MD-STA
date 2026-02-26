@@ -82,3 +82,5 @@ Response = (DR)/(RT)
 ![[Pasted image 20260223113900.png]]
 
 If <100% of receptors are required to evoke a maximum response, then these "extra" receptors are referred to as **spare receptors**
+
+[[Drug Receptor Interactions 2|Part 2]]
