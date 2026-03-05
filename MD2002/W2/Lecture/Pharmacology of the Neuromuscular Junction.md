@@ -125,6 +125,8 @@ Anticholinesterase drugs are all inhibitors of cholinesterase enzymes
 - Increase availability of ACh at NMJ by decreasing its degradation.
 - Increase duration of activity of ACh at NMJ
 - So more ACh to compete with non-depolarising blockers
+
+Basically if we want to counteract depolarising blockers, anticholinesterase drugs (like neostigmine) can be given.
 ![[Pasted image 20260223180115.png]]
 ![[Pasted image 20260223180838.png]]
 Side effects of anticholinesterases
@@ -162,6 +164,14 @@ Side effects of anticholinesterases
 Autoantibodies may be produced against the ACh receptor blocking the interaction of the receptor with its ligand (ACh) and leading to increased muscle weakness and death.
 
 Basically an autoantibody that bind to nicotinic ACh receptor at NMJ and move some to cause depolarisation. They work by increase ACh released, stay at NMJ to increase probability that ACh can bind to the receptor that isn't inhibited by the antibody.
+
+---
+
+A 70-year-old man presents with progressive muscle weakness that worsens with physical activity and periods of stress. Blood tests reveal the presence of autoantibodies targeting proteins at the neuromuscular junction.
+
+Based on this description, what is the suspected diagnosis of the patient?
+
+Myasthenia gravis
 ![[Pasted image 20260223181545.png]]
 ### Others
 **Sugammadex** can rapidly reverse the effects of **rocuronium** and **vecuronium**.
