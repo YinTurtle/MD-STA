@@ -99,6 +99,7 @@ Inhibit HMG-CoA reductase - which decreases cholesterol synthesis - results in l
 - Converts HMG-CoA to mevalonic acid (MVA)
 #### Atorvastatin, simvastatin, pravastatin, and rosuvastatin
 - Long lasting HMG-CoA reductase inhibitors
+- Lowers cholesterol, so Atorvastatin targets liver
 #### Clinical uses of Statins
 - Secondary prevention of myocardial infarction and stroke in those who have atherosclerotic diseases
 - Primary prevention of arterial disease in patients with high serum cholesterol
