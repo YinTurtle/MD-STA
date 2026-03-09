@@ -18,15 +18,160 @@ All **glycolysis** go through [[Introduction to Metabolism#Catabolism]].
 1. Investment
 2. Cleavage (split)
 3. Energy harvest
+**Definition:** breakdown of **glucose (6C)** into **2 pyruvate (3C)**  
+**Location:** **cytosol**  
+**Purpose:** make **ATP** and **NADH**
 
-Phase **A** - investment of 2 ATP
-1. **Hexokinase** uses **1 ATP** to convert glucose → **glucose-6-phosphate (G6P)**
-2. G6P is rearranged to **fructose-6-phosphate (F6P)** (isomerisation)
+---
 
+# Overall equation
 
-Which glycolytic enzyme is allosterically inhibited when glucose-6-phosphate levels are high?
-hexokinase
+**Glucose + 2 NAD+ + 2 ADP + 2 Pi → 2 pyruvate + 2 NADH + 2 ATP + 2 H2O + 2 H+**
 
+## Net yield per glucose
 
-What hormone promotes glycogenesis?
-insulin
+- **2 ATP net**
+    
+- **2 NADH**
+    
+- **2 pyruvate**
+    
+
+---
+
+# 2 phases of glycolysis
+
+## 1) Energy investment phase
+
+Uses **2 ATP**
+
+### Step 1
+
+**Glucose → Glucose-6-phosphate**
+
+- Enzyme: **Hexokinase** / **Glucokinase**
+    
+- Uses **ATP**
+    
+- Traps glucose in cell
+    
+
+### Step 2
+
+**Glucose-6-phosphate → Fructose-6-phosphate**
+
+- Enzyme: **Phosphoglucose isomerase**
+    
+
+### Step 3
+
+**Fructose-6-phosphate → Fructose-1,6-bisphosphate**
+
+- Enzyme: **PFK-1**
+    
+- Uses **ATP**
+    
+- **Rate-limiting step**
+    
+- Major control point
+    
+
+### Step 4
+
+**Fructose-1,6-bisphosphate → DHAP + Glyceraldehyde-3-phosphate**
+
+- Enzyme: **Aldolase**
+    
+
+### Step 5
+
+**DHAP ↔ Glyceraldehyde-3-phosphate**
+
+- Enzyme: **Triose phosphate isomerase**
+    
+
+At this point:
+
+- 1 glucose has become **2 glyceraldehyde-3-phosphate**
+    
+- everything from now on happens **twice per glucose**
+    
+
+---
+
+## 2) Energy payoff phase
+
+Produces **4 ATP total** and **2 NADH**
+
+### Step 6
+
+**Glyceraldehyde-3-phosphate → 1,3-bisphosphoglycerate**
+
+- Enzyme: **Glyceraldehyde-3-phosphate dehydrogenase**
+    
+- **NAD+ → NADH**
+    
+- This is where **NADH is made**
+    
+
+### Step 7
+
+**1,3-bisphosphoglycerate → 3-phosphoglycerate**
+
+- Enzyme: **Phosphoglycerate kinase**
+    
+- Makes **ATP**
+    
+- First **substrate-level phosphorylation**
+    
+
+### Step 8
+
+**3-phosphoglycerate → 2-phosphoglycerate**
+
+- Enzyme: **Phosphoglycerate mutase**
+    
+
+### Step 9
+
+**2-phosphoglycerate → Phosphoenolpyruvate (PEP)**
+
+- Enzyme: **Enolase**
+    
+- Releases water
+    
+
+### Step 10
+
+**PEP → Pyruvate**
+
+- Enzyme: **Pyruvate kinase**
+    
+- Makes **ATP**
+    
+- Second **substrate-level phosphorylation**
+    
+
+---
+
+# ATP accounting
+
+## ATP used
+
+- Step 1: **1 ATP**
+    
+- Step 3: **1 ATP**  
+    = **2 ATP used**
+    
+
+## ATP made
+
+- Step 7: **2 ATP total**
+    
+- Step 10: **2 ATP total**  
+    = **4 ATP made**
+    
+
+## Net
+
+**4 made - 2 used = 2 ATP net**
