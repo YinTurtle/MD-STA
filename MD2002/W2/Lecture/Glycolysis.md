@@ -31,11 +31,8 @@ All **glycolysis** go through [[Introduction to Metabolism#Catabolism]].
 ## Net yield per glucose
 
 - **2 ATP net**
-    
 - **2 NADH**
-    
 - **2 pyruvate**
-    
 
 ---
 
