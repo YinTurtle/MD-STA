@@ -289,3 +289,42 @@ Each digit has a dominant digital artery.
 
 ### Homunculus
 ![[Pasted image 20260205173032.png]]
+
+---
+
+### Clinical settings
+
+#### Median nerve lesions
+|Lesion|Main motor loss|Main sensory loss|Clinical appearance / test|
+|---|---|---|---|
+|**Carpal tunnel syndrome / low median lesion**|Thenar muscles + lateral 2 lumbricals|Lateral **3½ digits**, but **thenar eminence spared**|Thenar weakness/wasting, weak **thumb abduction**, flattened thenar region|
+|**High median lesion**|FCR, FDS, FDP to IF/MF, FPL, thenars, lateral 2 lumbricals|Lateral 3½ digits **and palm**|**Ape hand**, flattened palm; when making a fist only **ring and little** flex well|
+|**Anterior interosseous nerve (AIN)**|FPL + FDP to index (± pronator quadratus)|**No cutaneous sensory loss**|**Cannot make OK sign** properly; weak pinch|
+#### Ulnar nerve lesions
+| Lesion                         | Main motor loss                                                | Main sensory loss                               | Clinical appearance / test                                             |
+| ------------------------------ | -------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------- |
+| **Low ulnar lesion**           | Hypothenar, interossei, medial 2 lumbricals, adductor pollicis | Medial palm + medial **1½ digits**              | **Claw hand** of ring/little, weak **DAB/PAD**, positive **Froment’s** |
+| **High ulnar lesion**          | Above plus FCU + medial FDP                                    | Medial palm, dorsomedial hand, medial 1½ digits | Less dramatic clawing than low lesion = **ulnar paradox**              |
+| **Deep branch of ulnar nerve** | Purely intrinsic ulnar hand muscles                            | Minimal/no sensory loss                         | Interosseous weakness, **FDIO wasting**, Froment’s positive            |
+
+
+**Dupuytren's disease** is a common, progressive, and typically painless hand condition where fibrous tissue in the palm thickens, forming nodules and cords that pull one or more fingers (usually ring/little) into a bent position (contracture)
+
+#### Overall
+- **Median** = thenar, thumb abduction, lateral 3½ digits
+    
+- **AIN** = OK sign
+    
+- **Ulnar** = interossei, Froment, claw hand
+    
+- **Radial sensory** = first dorsal web space
+    
+- **FDP** = DIP flexion
+    
+- **FDS** = PIP flexion
+    
+- **Mallet** = DIP extensor problem
+    
+- **Boutonniere** = central slip
+    
+- **Dupuytren** = palmar nodules/cords
