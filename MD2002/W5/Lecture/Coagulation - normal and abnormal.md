@@ -48,7 +48,6 @@ What tube type is used for all coagulation tests: *sodium citrate*
 - Antithrombin (previously antithrombin III) degrades Xa and IIa
 
 ### Fibrinolytic system
-#addinfo 
 
 > [!info] Thrombolysis
 > Needs to be done in <4.5 hours from first symptoms, some risk of bleedings afterwards

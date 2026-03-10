@@ -172,3 +172,19 @@ Produces **4 ATP total** and **2 NADH**
 ## Net
 
 **4 made - 2 used = 2 ATP net**
+
+
+
+A mother and her 12 year old boy has come to the hospital. She is worried because he seems low energy, pale, and not like his usual self. After further investigation you discover that the boy has not eaten in the past 12 hours. After taking a blood test you discover he is hypoglycemic and has high number of ketone bodies in his blood. Which metabolic pathway is most active in this scenario?
+**Lipolysis**
+
+- Glycogenolysis
+	- breakdown stored glycogen into glucose-6-phosphate to rapidly increase sugar levels
+- Glycogenesis
+	- convert excess glucose into glycogen for storage
+- Lipolysis
+	- breakdown of stored triglycerides into free fatty acids and glycerol to provide energy during fasting or exercise
+	- produces high level of ketone
+- Lipogenesis
+	- body converts excess carbohydrates and other non-lipid precursors into fatty acids and triglycerides for long-term energy storage
+	- opposite of lipolysis
