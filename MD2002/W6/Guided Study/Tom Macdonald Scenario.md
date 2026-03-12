@@ -268,7 +268,8 @@
 ### “The clinical examination at this time showed him to have exaggerated reflexes on the right-hand side, with a Babinski’s sign…”
 
 - **Meaning:** classic **upper motor neuron (UMN) signs** → problem is in brain/spinal cord (not peripheral nerve).
-    
+
+- The Babinski sign (or reflex) is a neurological test where stroking the sole of the foot causes the big toe to move upward (dorsiflexion) and other toes to fan out. A positive Babinski sign in adults indicates an upper motor neuron lesion or damage to the central nervous system, such as a stroke, brain tumor, or multiple sclerosis.
 
 ### “…and an inability to voluntarily move his right arm, right leg and lower two thirds of his face.”
 
@@ -285,20 +286,6 @@
     
 
 ---
-
-## If you want to sound “clinically sharp” in discussion 😄
-
-Your group can summarise the whole story as a pattern:
-
-- **Low-energy injury + weeks of pain → pathological fracture**
-    
-- **Smoking history + hilar lesion + adenocarcinoma → lung primary**
-    
-- **New headache + progressive right UMN signs → likely brain metastasis**
-    
-
----
-
 ### Diagnosis (what disease is it?)
 
 - **Most likely disease:** **Metastatic lung adenocarcinoma**
@@ -310,6 +297,7 @@ Your group can summarise the whole story as a pattern:
         - **6 weeks progressive pain** before the “injury” = underlying bone pathology
             
         - Investigations show **bone lesion** + **biopsy = undifferentiated adenocarcinoma**
+	        - Differentiated adenocarcinoma (well-differentiated) consists of cancer cells that closely resemble normal, healthy gland cells, indicating slow growth and lower aggression. In contrast, undifferentiated adenocarcinoma consists of highly abnormal, immature cells that bear no resemblance to normal tissue, making them aggressive, fast-growing, and associated with a poorer prognosis
             
         - **CXR: right hilar lesion** + heavy smoking history → lung primary likely
             
@@ -413,17 +401,3 @@ Your group can summarise the whole story as a pattern:
     
 - **Palliative care:** pain control, symptom support, goals-of-care conversations
     
-
----
-
-## Prognosis + communication (how to discuss)
-
-- Likely **advanced metastatic cancer** (bone + likely brain involvement) → **guarded prognosis**
-    
-- Communication priorities:
-    
-    - Explain fracture was due to **weakened bone from disease**
-        
-    - Set goals: **pain relief, mobility, disease control, quality of life**
-        
-    - Address practical issues: work/finances, family support, rehab needs
